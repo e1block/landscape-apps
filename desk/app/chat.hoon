@@ -10,6 +10,8 @@
 /+  epos-lib=saga
 /+  wood-lib=wood
 /+  mig=chat-graph
+/$  gd1  %chat-writs  %noun
+/$  gd3  %club-crew  %noun
 /*  desk-bill  %bill  /desk/bill
 ^-  agent:gall
 =>
